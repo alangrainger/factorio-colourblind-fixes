@@ -2,16 +2,20 @@ This is a way to fix the Factorio graphics for colourblind people **without** us
 
 ## What's changed
 
-- Science packs have been updated to have a different shape for each pack. 
-  (Space pack is also included but not pictured below.)
-- Advanced circuit colour has been changed.
+-Science packs have been updated to have a different shape for each pack. (Space pack is also included but not pictured below.)
 - Green wire has been replaced by blue.
-- Light oil and lubricant replaced.
 - The logistics network overlay has been updated to make it clearer.
+- Circuits updated.
+- Oil/lubricant updated.
+- Stack inserters updated with square base.
 
 Science packs, circuits and wires:
 
 ![Science packs, circuits and wires](example1.jpg)
+
+Stack inserter vs normal inserter:
+
+![Stack inserters](example4.jpg)
 
 Oil:
 
@@ -39,9 +43,9 @@ If, for example, you don't like the colours of the wires above, it is super easy
 
 ## Credits
 
-Credit to [Hornwitser](https://mods.factorio.com/user/hornwitser) for the science pack graphics from his [cb-science mod](https://mods.factorio.com/mod/cb-science).
-As per [his licence](https://creativecommons.org/licenses/by-nc-nd/4.0/), no derivative works have been made
-and his original content has been included verbatim.
+Credit to [Hornwitser](https://mods.factorio.com/user/hornwitser) for the science pack graphics from their [cb-science mod](https://mods.factorio.com/mod/cb-science).
+As per [the licence](https://creativecommons.org/licenses/by-nc-nd/4.0/), no derivative works have been made
+and the original content has been included verbatim.
 
 Credit to [RedditNamesAreShort](https://www.reddit.com/r/factorio/comments/6ba2jj/im_color_blind_and_cant_see_the_orange_and_green/dhkxnv8/) for showing that it was possible to change these graphics 
 without using a mod.
