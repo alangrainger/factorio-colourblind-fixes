@@ -11,15 +11,15 @@ This is a way to fix the Factorio graphics for colourblind people **without** us
 
 Science packs, circuits and wires:
 
-![Science packs, circuits and wires](example1.png)
+![Science packs, circuits and wires](example1.jpg)
 
 Oil:
 
-![Oil](example2.png)
+![Oil](example2.jpg)
 
 Logistics network:
 
-![Logistics network](example3.png)
+![Logistics network](example3.jpg)
 
 ## How to install
 
