@@ -13,13 +13,13 @@ Science packs, circuits and wires:
 
 ![Science packs, circuits and wires](example1.png)
 
-Logistics network:
-
-![Logistics network](example2.png)
-
 Oil:
 
-![Oil](example3.png)
+![Oil](example2.png)
+
+Logistics network:
+
+![Logistics network](example3.png)
 
 ## How to install
 
