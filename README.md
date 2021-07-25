@@ -13,10 +13,6 @@ Science packs, circuits and wires:
 
 ![Science packs, circuits and wires](example1.jpg)
 
-Stack inserter vs normal inserter:
-
-![Stack inserters](example4.jpg)
-
 Oil:
 
 ![Oil](example2.jpg)
@@ -24,6 +20,10 @@ Oil:
 Logistics network:
 
 ![Logistics network](example3.jpg)
+
+Stack inserter vs normal inserter:
+
+![Stack inserters](example4.jpg)
 
 ## How to install
 
