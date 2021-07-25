@@ -7,7 +7,7 @@ This is a way to fix the Factorio graphics for colourblind people **without** us
 - The logistics network overlay has been updated to make it clearer.
 - Circuits updated.
 - Oil/lubricant updated.
-- Stack inserters updated with square base.
+- Stack and filter inserters updated with new bases.
 
 Science packs, circuits and wires:
 
@@ -21,9 +21,9 @@ Logistics network:
 
 ![Logistics network](example3.jpg)
 
-Stack inserter vs normal inserter:
+Stack and filter inserters vs normal and fast inserters:
 
-![Stack inserters](example4.jpg)
+![Inserters](example4.jpg)
 
 ## How to install
 
