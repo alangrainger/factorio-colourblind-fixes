@@ -3,11 +3,11 @@ This is a way to fix the Factorio graphics for colourblind people **without** us
 ## What's changed
 
 -Science packs have been updated to have a different shape for each pack. (Space pack is also included but not pictured below.)
-- Green wire has been replaced by blue.
 - The logistics network overlay has been updated to make it clearer.
 - Circuits updated.
+- Circuit wires updated.
 - Oil/lubricant updated.
-- Stack and filter inserters updated with new bases.
+- Stack and filter inserters updated.
 
 Science packs, circuits and wires:
 
